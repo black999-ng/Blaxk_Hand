@@ -45,7 +45,7 @@ Perfect for sales teams, business development, and marketing automation.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/blackng-999/aiLEADS.git
+   git clone https://github.com/black999-ng/aiLEADS.git
    cd aiLEADS
    ```
 
