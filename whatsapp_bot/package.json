@@ -1,0 +1,15 @@
+{
+  "name": "blaxk-whatsapp-bot",
+  "version": "2.0.0",
+  "description": "BLAXK's automated WhatsApp lead generation bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

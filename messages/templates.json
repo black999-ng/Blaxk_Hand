@@ -1,0 +1,43 @@
+{
+  "restaurant": [
+    "Hello *{name}*, \n\nI came across your restaurant on Google Maps and was impressed by what you do. \n\nI’m John, a developer who specializes in websites and business automations that help streamline operations and boost visibility. I noticed you don't have a website yet — I can build you a professional online menu, booking system, and a AI powered virtual assistant to handle customers and process things while you're away. \n\nReply with a simple *\"Yes\"* if interested."
+  ],
+  
+  "school": [
+    "Hello *{name}*, \n\nI found your school on Google Maps. \n\nMy name is John, I specialize in professional website building and automations for educational institutions. A modern website with admissions forms, class schedules, and parent portals could help you attract more students. I can make this happen. \n\nReply *\"Yes\"* if you'd like to know more."
+  ],
+  
+  "shoprite": [
+    "Hi *{name}*, \n\nI came across your shop on Google Maps. \n\nI'm John, a developer specializing in e-commerce websites and automations. Your business deserves a professional online store with inventory management and payment integration to boost sales. I noticed you don't have a website yet I could get you a demo if you want. \n\nReply *\"Yes\"* if interested."
+  ],
+  
+  "boutique": [
+    "Hello *{name}*, I discovered your boutique on Google Maps. \n\nMy name is John, I build websites and automations for fashion businesses. An online store with product galleries, size charts, and shopping cart would help you reach more customers, I can also create an AI virtual assistant for you if your business is WhatsApp Based. \n\nReply *\"Yes\"* to learn more."
+  ],
+  
+  "hotel": [
+    "Hi *{name}*, \n\nI found your hotel on Google Maps. \n\nI'm John, a developer specializing in hotel booking websites and automations. Your business needs a professional site with room availability, online reservations, guest portals and an AI powered Virtual Assistant if your hotel is WhatsApp-Based. I can build this for you. \n\nReply *\"Yes\"* if interested."
+  ],
+  
+   "lounge": [
+    "Hi *{name}*, \n\nI found your hotel on Google Maps. \n\nI'm John, a developer specializing in hotel booking websites and automations. Your business needs a professional site with room availability, online reservations, guest portals and an AI powered Virtual Assistant if your hotel is WhatsApp-Based. I can build this for you. \n\nReply *\"Yes\"* if interested."
+  ],
+  
+  "service": [
+    "Hello *{name}*, I found your service business on Google Maps. My name is John, I create professional service websites with quote forms, service listings or an AI powered Vitual Assistant if your Business is WhatsApp-Based. \n\nReply *\"Yes\"* if interested."
+  ],
+  
+  "default": [
+    "Hello *{name}*, \n\nI came across your business on Google Maps and was impressed by your reviews.\n\nI'm John, a developer specializing in websites and automations that help businesses grow online. I noticed you don't have a website yet, I can build you a demo if your interested. \n\nReply *\"Yes\"* if you'd like that.",
+
+  "Hello {name}, \n\nI found your business while I was looking on Google Maps. I noticed you didn't have a website. \n\nMy name is John, I'm a developer. I specialize in websites and automations. I help businesses stay afloat in this digital age. \n\nIf you're interested, Reply with a *\"Yes\"*.",
+
+    "Hi {name}, \n\nMy name is John and I am a developer. I specialise in building professional websites and automations. I noticed your business on Google Maps doesn't have one. I can help with that, if you'd like a demo reply with a *\"Yes\"*.",
+
+    "Hi {name}, \n\nMy name is John. I am a developer, I specialize in professional website building and automations. I came across your business on Google Maps and decided to reach out. If you'd like a demo website or an AI powered Virtual Assistant to handle tasks if your business is WhatsApp based, reply with a *\"Yes\"* if you'd like that.",
+
+    "Hello {name}, I just came across your business on Google Maps. I noticed it didn't have a website though. I could help you fix that. My name is John, I'm a developer and I specialize mainly in website development and automations. If you'd like to know more, just reply with a *\"Yes\"*.",
+
+    "Hi {name}, I came across your business on Google Maps and was impressed by what you do. I'm John, a developer who specializes in websites and business automations. I believe there are a few ways I could add value and increase your online presence and help you keep up with the modern day technology. Kindly respond with a simple *\"Yes\"* if interested."
+  ] 
+}

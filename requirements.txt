@@ -1,0 +1,6 @@
+google-maps-scraper
+playwright
+python-dotenv
+google-generativeai
+pandas
+openpyxl

@@ -1,0 +1,105 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Chrome Profiles & Browser Data
+chrome_profiles/
+*.profile
+*.pma
+*.db-journal
+Local State
+**/GraphiteDawnCache/
+**/GrShaderCache/
+**/ShaderCache/
+**/component_crx_cache/
+**/extensions_crx_cache/
+**/segmentation_platform/
+**/Safe\ Browsing/
+**/NativeMessagingHosts/
+
+# WhatsApp Bot
+whatsapp_bot/node_modules/
+whatsapp_bot/auth_info_baileys/
+npm-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+session_*.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+.gitkeep
+
+# Large Output Files (optional - uncomment to exclude)
+output/
+*.xlsx
+# *.csv
+
+# Sensitive Data
+credentials.json
+secrets.json
+apikey*
+token*
